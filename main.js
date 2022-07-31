@@ -8,3 +8,4 @@ abbbccdddddeffffeg
 //const regexp = new RegExp('the','gi')
 const regexp = /the/gi
 console.log(str.match(regexp))
+alert('test')
