@@ -1,6 +1,6 @@
 # 정규표현식
 
-정규신, Regular Experssion
+정규식, Regular Experssion
 
 ## 역할
 
